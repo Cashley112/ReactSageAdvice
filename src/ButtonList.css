@@ -1,0 +1,13 @@
+.ButtonList button {
+    height: 2rem;
+    width: 10rem;
+    margin: 5em;
+    color: white;
+    border: none;
+    font-weight: bolder;
+}
+
+.ButtonList button:hover {
+    transition: ease;
+    box-shadow: 10px 5px 5px black;
+}
