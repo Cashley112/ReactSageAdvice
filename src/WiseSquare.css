@@ -1,0 +1,18 @@
+.WiseSquare {
+    height: 200px;
+    width: 200px;
+    background-color: slategray;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.WiseSquare:hover {
+    background-color: #1ea956;
+}
+
+.WiseSquare h2 {
+    font-size: 5em;
+}
